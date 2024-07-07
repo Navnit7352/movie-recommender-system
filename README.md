@@ -4,14 +4,14 @@ This project is a Movie Recommender System built using text vectorization techni
 # Features
 Text Vectorization: The core of the recommendation engine relies on text vectorization methods to convert movie descriptions and other textual data into numerical vectors.
 Content-Based Filtering: Recommendations are generated based on the similarity of movie content, focusing on genres, plots, and other descriptive attributes.
-Interactive UI: A user-friendly interface created with Streamlit allows users to interact with the recommender system seamlessly.
+**Interactive UI**: A user-friendly interface created with Streamlit allows users to interact with the recommender system seamlessly.
 Dynamic Recommendations: The system dynamically updates recommendations based on user input, providing a personalized movie-watching experience.
 
 # Installation
 To run this project locally, follow these steps:
 
 # 1.Clone the repository:
-git clone https://github.com/yourusername/movies-recommender-system.git
+git clone https://github.com/Navnit7352/movie-recommender-system.git
 cd movies-recommender-system
 
 # 2.Install the dependencies:
