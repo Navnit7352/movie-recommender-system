@@ -11,8 +11,9 @@ Dynamic Recommendations: The system dynamically updates recommendations based on
 To run this project locally, follow these steps:
 
 **1.Clone the repository:**
+'''bash
 git clone https://github.com/Navnit7352/movie-recommender-system.git
-cd movies-recommender-system
+cd movies-recommender-system '''
 
 **2.Install the dependencies:**
 pip install -r requirements.txt
