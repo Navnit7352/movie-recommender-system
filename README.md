@@ -13,14 +13,18 @@ To run this project locally, follow these steps:
 **1.Clone the repository:**
 ```bash
 git clone https://github.com/Navnit7352/movie-recommender-system.git
-cd movies-recommender-system ```
+cd movies-recommender-system
+```
 
 **2.Install the dependencies:**
+```bash
 pip install -r requirements.txt
+```
 
 **3.Run the Streamlit app:**
+```bash
 streamlit run app.py
-
+```
 # UI
 <img width="950" alt="UI" src="https://github.com/Navnit7352/movie-recommender-system/assets/143092007/dceeefe5-67b8-4219-bcd5-07947b159766">
 
